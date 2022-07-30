@@ -3,6 +3,9 @@
   margin: 0;
   background-color: black;
 }
+body{
+ backround-color: orange; 
+}
 
 figure img[src*="carina-nebula"] {
   width: 50%;
