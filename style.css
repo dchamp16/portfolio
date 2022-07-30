@@ -1,12 +1,12 @@
 * {
   padding: 0;
- margin: 0;
-  background-color: black;
+  margin: 0;
+  background-color: orange;
 }
 
 figure img[src*="carina-nebula"] {
-  width: 20%;
-  height: 20%;
+  width: 50%;
+  height: 50%;
   background-repeat: no-repeat;
   background-size: contain;
 }
