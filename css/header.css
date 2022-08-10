@@ -1,0 +1,28 @@
+#header {
+  grid-area: head;
+  background-color: pink;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 5em;
+  padding: 0 0.5em;
+}
+.navbar ul {
+  display: flex;
+}
+.navbar li {
+  list-style: none;
+}
+
+.navbar a {
+  text-decoration: none;
+  padding: 0 0.3em;
+  color: black;
+}
+.navbar a:hover {
+  color: white;
+  background-color: red;
+}
+.navbar a:active {
+  color: yellow;
+}
